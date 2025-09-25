@@ -1,6 +1,7 @@
 # ManufacturingDowntime.project
 
 project Description:
+
  This project focuses on analyzing and forecasting downtime in a
  manufacturing setting to improve operational efficiency and decision
 making. The objective is to transform raw downtime data into
@@ -9,6 +10,7 @@ making. The objective is to transform raw downtime data into
  downtime events.
  
 data Description:
+
  Line productivity: The core sheet  it tracks production runs on each manufacturing
  line.
  Products : A reference/crosswalk table with product details.
@@ -18,6 +20,7 @@ data Description:
 
  
 Project Team 
+
 Malek Mohammed hamed ( Team leader) 
 
 Azza Amen Mohamed Amen
