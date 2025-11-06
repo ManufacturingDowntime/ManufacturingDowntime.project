@@ -1,4 +1,4 @@
-# 🏭 Manufacturing Downtime Analysis and Performance Optimization
+# 🏭 Manufacturing Downtime Analysis
 
 ## 📘 Project Overview
 This project focuses on analyzing **downtime across manufacturing lines** to identify performance bottlenecks, reveal key factors influencing interruptions, and enhance decision-making through **Power BI dashboards**.
@@ -13,6 +13,17 @@ This project focuses on analyzing **downtime across manufacturing lines** to ide
 Covers all downtime events recorded across lines, operators, products, and factors, as well as temporal trends (by date, shift, or hour).
 
 ---
+## 👨‍💻 Project Team
+
+| **Name** | **Role** |
+|-----------|-----------|
+| **Malek Mohammed Hamed** | Team Leader |
+| **Azza Amen Mohamed Amen** | Data Engineering & Visualization |
+| **Rana Wagih Hussein** | Data Analysis |
+| **Islam Mohamed Yassein** | Business Insights & Visualization |
+| **Mahmoud Elaraby Mohamed** | Data Engineering & Project Support |
+| **Nada Abdullah Abdullah** | Visualization Support |
+
 
 ## 🗓️ Project Plan – Manufacturing Downtime Analysis
 
