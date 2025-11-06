@@ -1,4 +1,4 @@
-# 🏭 Manufacturing Downtime Analysis and Performance Optimization
+#  Manufacturing Downtime Analysis and Performance Optimization
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-Data%20Cleaning-blue?logo=python)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 1. [Project Overview](#-project-overview)
 2. [Objectives](#-objectives)
 3. [Scope](#-scope)
@@ -27,21 +27,21 @@
 
 ---
 
-## 📘 Project Overview
+##  Project Overview
 This project focuses on analyzing **downtime across manufacturing lines** to identify performance bottlenecks, reveal key factors influencing interruptions, and enhance decision-making through **Power BI dashboards**.
 
-### 🎯 Objectives
+### Objectives
 1. Analyze downtime patterns across lines, operators, and products.  
 2. Identify top downtime causes and quantify their impact on production.  
 3. Develop interactive dashboards in Power BI for management insights.  
 4. Support process improvement through data-driven visualization and KPIs.
 
-### 📌 Scope
+###  Scope
 Covers all downtime events recorded across lines, operators, products, and factors, as well as temporal trends (by date, shift, or hour).
 
 ---
 
-## 🗓️ Project Plan – Manufacturing Downtime Analysis
+##  Project Plan – Manufacturing Downtime Analysis
 
 | **Phase** | **Tasks** | **Duration** | **Milestone** |
 |------------|------------|--------------|----------------|
@@ -109,7 +109,7 @@ Covers all downtime events recorded across lines, operators, products, and facto
 
 ---
 
-## 🗄️ Database Design
+##  Database Design
 
 - **Fact Table:** `Fact_Line_Downtime`  
   (includes downtime duration, units lost, factor keys, etc.)
@@ -153,7 +153,7 @@ A comprehensive **Power BI dashboard** providing management with data-driven ins
 
 ---
 
-## 👨‍🏫 Instructor
+##  Instructor
 **Kareem Bakli**
 
 ---
@@ -166,13 +166,13 @@ You can find the full project files here:
 
 ---
 
-## ⚖️ License
+##  License
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and share it with proper attribution.
 
 ---
 
-## 🧮 KPIs (Key Performance Indicators)
+##  KPIs (Key Performance Indicators)
 Metrics for project success include:  
 - **Response Time**
 - **System Uptime**
@@ -182,5 +182,5 @@ Metrics for project success include:
 
 ---
 
-📅 **Last Updated:** November 2025  
-📍 *Developed by the Manufacturing Downtime Analysis Team*
+ **Last Updated:** November 2025  
+ *Developed by the Manufacturing Downtime Analysis Team*
