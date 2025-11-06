@@ -1,4 +1,30 @@
-# 🏭 Manufacturing Downtime Analysis
+# 🏭 Manufacturing Downtime Analysis and Performance Optimization
+
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi)
+![Python](https://img.shields.io/badge/Python-Data%20Cleaning-blue?logo=python)
+![SQL](https://img.shields.io/badge/SQL-Data%20Querying-lightgrey?logo=postgresql)
+![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)
+
+---
+
+## 📑 Table of Contents
+1. [Project Overview](#-project-overview)
+2. [Objectives](#-objectives)
+3. [Scope](#-scope)
+4. [Project Plan](#️-project-plan--manufacturing-downtime-analysis)
+5. [Task Assignment & Roles](#-task-assignment--roles)
+6. [Risk Assessment & Mitigation Plan](#️-risk-assessment--mitigation-plan)
+7. [Key Performance Indicators (KPIs)](#-key-performance-indicators-kpis)
+8. [Technology Stack](#-technology-stack-summary)
+9. [Database Design](#️-database-design)
+10. [Expected Deliverables](#-expected-deliverables)
+11. [Final Outcome](#-final-outcome)
+12. [Project Team](#-project-team)
+13. [Instructor](#-instructor)
+14. [Project Files](#-project-files)
+15. [License](#-license)
+
+---
 
 ## 📘 Project Overview
 This project focuses on analyzing **downtime across manufacturing lines** to identify performance bottlenecks, reveal key factors influencing interruptions, and enhance decision-making through **Power BI dashboards**.
@@ -13,17 +39,6 @@ This project focuses on analyzing **downtime across manufacturing lines** to ide
 Covers all downtime events recorded across lines, operators, products, and factors, as well as temporal trends (by date, shift, or hour).
 
 ---
-## 👨‍💻 Project Team
-
-| **Name** | **Role** |
-|-----------|-----------|
-| **Malek Mohammed Hamed** | Team Leader |
-| **Azza Amen Mohamed Amen** | Data Engineering & Visualization |
-| **Rana Wagih Hussein** | Data Analysis |
-| **Islam Mohamed Yassein** | Business Insights & Visualization |
-| **Mahmoud Elaraby Mohamed** | Data Engineering & Project Support |
-| **Nada Abdullah Abdullah** | Visualization Support |
-
 
 ## 🗓️ Project Plan – Manufacturing Downtime Analysis
 
@@ -123,3 +138,48 @@ where `Fact_Line_Downtime` connects to all dimension tables through their keys.
 A comprehensive **Power BI dashboard** providing management with data-driven insights into downtime performance, root cause identification, and actionable strategies for operational efficiency.
 
 ---
+
+## 👨‍💻 Project Team
+
+| **Name** | **Role** |
+|-----------|-----------|
+| **Malek Mohammed Hamed** | Team Leader |
+| **Azza Amen Mohamed Amen** | Data Engineering & Visualization |
+| **Rana Wagih Hussein** | Data Analysis |
+| **Islam Mohamed Yassein** | Business Insights & Visualization |
+| **Mahmoud Elaraby Mohamed** | Data Engineering & Project Support |
+| **Nada Abdullah Abdullah** | Visualization Support |
+
+---
+
+## 👨‍🏫 Instructor
+**Kareem Bakli**
+
+---
+
+## 📂 Project Files
+You can find the full project files here:  
+🔗 [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1oiEPTm4O0qDETcfLwSkRfSVG4YUwPzOV)
+
+> All relevant files, Power BI reports, and documentation are also included within this repository.
+
+---
+
+## ⚖️ License
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and share it with proper attribution.
+
+---
+
+## 🧮 KPIs (Key Performance Indicators)
+Metrics for project success include:  
+- **Response Time**
+- **System Uptime**
+- **User Adoption Rate**
+- **Data Accuracy**
+- **Visualization Clarity**
+
+---
+
+📅 **Last Updated:** November 2025  
+📍 *Developed by the Manufacturing Downtime Analysis Team*
