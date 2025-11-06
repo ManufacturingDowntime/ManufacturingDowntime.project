@@ -1,4 +1,4 @@
-#  Manufacturing Downtime Analysis and Performance Optimization
+#  Manufacturing Downtime Analysis
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow?logo=powerbi)
 ![Python](https://img.shields.io/badge/Python-Data%20Cleaning-blue?logo=python)
