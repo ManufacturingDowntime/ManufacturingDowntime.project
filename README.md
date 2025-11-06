@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-Data%20Cleaning-blue?logo=python)
 ![SQL](https://img.shields.io/badge/SQL-Data%20Querying-lightgrey?logo=postgresql)
 ![GitHub](https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github)
-![Excel](https://img.shields.io/badge/Excel%20Exploration-Excel-Green?logo=excel)
+![Excel](https://img.shields.io/badge/Excel%20Exploration-data-Green?logo=excel)
 
 ---
 
