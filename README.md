@@ -127,7 +127,7 @@ where `Fact_Line_Downtime` connects to all dimension tables through their keys.
 
 ---
 
-## 📈 Expected Deliverables
+## 📈 Deliverables
 - Clean and validated downtime dataset  
 - Star schema data model in Power BI  
 - Interactive dashboard with KPIs and filters  
